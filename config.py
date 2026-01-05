@@ -1,2 +1,2 @@
-print("intento 1")
-print("no puedo ")
+print("intentos todos los necesarios ")
+print("para poder estar a tu lado ")
